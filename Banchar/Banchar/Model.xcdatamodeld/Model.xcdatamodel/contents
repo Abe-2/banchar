@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15400" systemVersion="19A583" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CreditCard" representedClassName="CreditCard" syncable="YES" codeGenerationType="class">
+        <attribute name="expiryMonth" optional="YES" attributeType="String"/>
+        <attribute name="expiryYear" optional="YES" attributeType="String"/>
+        <attribute name="holderName" optional="YES" attributeType="String"/>
+        <attribute name="number" optional="YES" attributeType="String"/>
+        <attribute name="pin" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="CreditCard" positionX="-63" positionY="-18" width="128" height="118"/>
+    </elements>
+</model>
